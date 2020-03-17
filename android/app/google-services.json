@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877194785349",
+    "firebase_url": "https://sospet-bfd63.firebaseio.com",
+    "project_id": "sospet-bfd63",
+    "storage_bucket": "sospet-bfd63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877194785349:android:e50597316d832dc595a92c",
+        "android_client_info": {
+          "package_name": "com.viniciusmelo.sospetfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877194785349-ltn3h7tk7lk66idpdd3log1piu2c4pkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vh6MBST7fKNf9RIzfTrF7Srh8gMRXoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877194785349-ltn3h7tk7lk66idpdd3log1piu2c4pkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

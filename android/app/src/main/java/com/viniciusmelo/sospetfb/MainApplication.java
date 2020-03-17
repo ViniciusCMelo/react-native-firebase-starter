@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.viniciusmelo.sospetfb;
 
 import androidx.multidex.MultiDexApplication;
 
